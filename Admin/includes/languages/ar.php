@@ -6,12 +6,15 @@ function lang($phrase) {
         'PASSWORD'        => "كلمة المرور",
         'LOGIN'           => 'تسجيل الدخول',
         'USERNAME'        => 'اسم المستخدم',
-
-
-
-
-
         //NAVBAR WORDS
+        'HOME'            => 'الرئيسية',
+        'CATEGORIES'      => 'الفئات',
+        'ITEMS'           => 'الادوات',
+        'MEMBERS'         => 'الاعضاء',
+        'STATISTICS'      => 'الإحصائيات',
+        'LOGS'            => 'السجلات',
+        'WELCOME'            => 'مرحباً',
+        //NAVBAR.dropdown-menu WORDS
         'LOGUOUT'         => 'تسجيل الخروج',
 
 

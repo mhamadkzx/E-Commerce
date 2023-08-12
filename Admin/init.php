@@ -15,7 +15,7 @@
 
      // Impoert ilnk
 
-          include $lang . 'ar.php';
+          include $lang . 'en.php';
           include $tpl . 'header.php';
 
 
