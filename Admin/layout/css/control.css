@@ -1,0 +1,79 @@
+
+/*Start main rulaz*/
+
+ body{
+    background-color: #f8f9fa;
+    font-size: 16px;
+ }
+/*END main rulaz*/
+
+/* Start login form */
+
+    .login{
+       width: 300px; 
+       margin: 100px auto;
+    }
+    .login input{
+        margin-bottom: 15px;
+    }
+    .login .form-control{    
+        background-color: rgb(186, 179, 179);
+    }
+    .login .btn {
+        background-color: rgb(193, 184, 149);
+    } 
+/* END login form */
+
+/* Start dropdown-menu *
+    ul li .dropdown-menu li{
+        display: block;
+        background: #f8f9fa;
+    }
+
+    ul li .dropdown-menu {
+        width: 100%;
+        position: absolute;
+        background: #f8f9fa;
+        z-index: 999;
+        display: none;
+    }
+    ul li:hover {
+        background: rgb(186, 179, 179);
+    }
+    ul li:hover ul.dropdown-menu {
+        display: block;
+
+    }
+
+ END dropdown-menu */
+
+ /*statr bootstrap eidt*/
+    
+ .navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+}
+
+.navbar-brand {
+    font-size: 1em;
+}
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    background-color: #bdc3c7;
+}
+ul li:hover {
+    background: #ecf0f1;
+    
+}
+ /*end bootstrap*/
+
+ /*start input lable membres page*/
+ .button, input, optgroup, select, textarea {
+    
+   
+    margin: 10px auto;
+    margin-bottom: 15px;
+ }
+ 
+/*END input lable membres page*/
+
+/* Start container in membres */
