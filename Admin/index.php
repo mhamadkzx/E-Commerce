@@ -45,7 +45,7 @@
     <form class = "login" action = "<?php echo $_SERVER['PHP_SELF'] ?>" method = "POST" >
         <h4 class ='text-center' ><?php echo lang ('ADMIN_LOGIN') ?></h4>
         <input class ="form-control" type = "text" name = "user" placeholder = <?php echo lang('USERNAME')?>  autocmplete = "off"  />
-        <input class ="form-control" type = "password" name = "pass" placeholder = <?php echo lang('PASSWORD')?> autocmplete = "new-password"  />
+        <input class ="form-control" type = "password" name = "pass" placeholder = <?php echo lang("PASSWORD")?> autocmplete = "new-password"  />
         <input class ="btn btn-primary  btn-block " type = "submit" value = <?php echo lang('LOGIN')?> />
 
     </form>

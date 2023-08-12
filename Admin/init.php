@@ -1,7 +1,7 @@
 <?php
      // Connected to db
 
-          include 'connete.php' ;  
+          include 'Connection.php' ;  
 
      // Routes
 
